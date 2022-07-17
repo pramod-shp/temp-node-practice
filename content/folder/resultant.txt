@@ -1,0 +1,1 @@
+This is result: This is a sample text file 2 and This is a sample text file 1;
